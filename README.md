@@ -27,4 +27,4 @@ Open [http://127.0.0.1:5173](http://127.0.0.1:5173) to view it in the browser.
 
 ### Video Tutorial
 
-You can see my youtube video for this project in [here](git push -u origin main)
+You can see my youtube video for this project in [here](https://youtu.be/TFX19GQ8LMQ)
